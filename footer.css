@@ -1,0 +1,43 @@
+/* Footer styling */
+footer {
+  
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-content h4 {
+    color: #fff;
+    font-size: 10px;
+}
+
+.footer-content p {
+    margin: 10px 0;
+}
+
+.social-icons a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+.social-icons a:hover {
+    color: #975acc;
+}
+
+ul.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+ul.list-unstyled li {
+    margin-bottom: 10px;
+}
+
+ul.list-unstyled li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+ul.list-unstyled li a:hover {
+    color: #975acc;
+}
